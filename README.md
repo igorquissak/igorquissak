@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá! Eu sou o Igor Quissak Souza, estudante de Análise e Desenvolvimento de Sistemas 👋🫡
+<br>
 
 <!--
 **igorquissak/igorquissak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3>GitHub Stats:</h3>
+
+<div align = "center">
+<img heigth=200 src="https://github-readme-stats-swart-rho.vercel.app/api?username=igorquissak&show_icons=true&theme=radical&include_all_commits=true" alt="igorquissak">
+<img heigth=200 src="https://github-readme-stats-swart-rho.vercel.app/api/top-langs/?username=igorquissak&show_icons=true&theme=radical&layout=compact" alt="igorquissak"/>
+</div>
