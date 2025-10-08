@@ -1,4 +1,4 @@
-## Olá! Eu sou o Igor Quissak Souza, estudante de Análise e Desenvolvimento de Sistemas 👋🫡
+## Olá! Eu sou o Igor Quissak Souza, estudante de Análise e Desenvolvimento de Sistemas na UNIMES👋🫡
 <br>
 
 <!--
